@@ -66,7 +66,7 @@ _Tech Stack: Power BI, Excel, MySQL_
 
 ## 📈 GitHub Stats
 
-![Ajay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-prawinsk&theme=dark&show_icons=true)
+![Ajay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-prawin&theme=dark&show_icons=true)
 
 ## 🌏 Social Presence
 
